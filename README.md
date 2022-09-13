@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LexProfi
 - 👀 I’m interested in java, spring, blockchain
 - 🌱 I’m currently learning design high-load applications
-- 💞️ I’m looking to collaborate on офмф вумудщзукы
+- 💞️ I’m looking to collaborate on java developers
 - 📫 How to reach me to [Telegram lex](https://t.me/lexprofi)
 
 <!---
